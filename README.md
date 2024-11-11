@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.windowsnoticias.com%2Fwp-content%2Fuploads%2F2023%2F03%2Ffs_sito_img_activedirectory-page-1024x451.png&f=1&nofb=1&ipt=10f97fd5227bd8bdd907d5a5573fd11d0c69bc2131d93e3d82cc6ab7eb51cb07&ipo=images" alt="osTicket logo"/>
 </p>
 
 <h1>Configuring Active Directory within Azure VMs</h1>
@@ -96,7 +96,7 @@ select "Add a new forest" and input yourdomainname.com
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Kmhcv3X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 if "Create DNS delegation" is selected, uncheck the box.
@@ -179,9 +179,6 @@ scroll down and click "Remote Desktop", then click "Select users that can remote
 </p>
 <br />
 
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Congratulations, You have now setup and configured active directory in an Azure VM setting.
